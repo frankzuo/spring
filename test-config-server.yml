@@ -1,5 +1,1 @@
----
-spring:
-  profiles: zuo
 word: zuo
-
