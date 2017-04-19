@@ -2,7 +2,4 @@
 spring:
   profiles: zuo
 word: zuo
----
-spring:
-  profiles: wen
-word: wen
+
