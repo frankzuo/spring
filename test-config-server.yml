@@ -1,6 +1,6 @@
 spring:
-  profiles:zuo
+  profiles: zuo
 word: zuo
 spring:
-  profiles:wen
+  profiles: wen
 word: wen
