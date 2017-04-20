@@ -1,8 +1,6 @@
 ---
 spring:
-  profiles: zuo
-word: zuo
----
-spring:
-  profiles: wen
-word: wen
+  application:
+    name: eureka-server
+server:
+  port: 8011
